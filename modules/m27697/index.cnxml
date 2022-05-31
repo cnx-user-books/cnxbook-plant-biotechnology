@@ -1,0 +1,162 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Course Plan</title>
+  <metadata>
+  <md:content-id>m27697</md:content-id><md:title>Course Plan</md:title>
+  <md:abstract/>
+  <md:uuid>cddd1cb5-02ef-4ca7-b0c2-2eb02a70f037</md:uuid>
+</metadata>
+
+<content>
+    <table id="id45719595" summary="">
+      <tgroup cols="5">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <tbody>
+          <row>
+            <entry>Lecture</entry>
+            <entry>Sub.</entry>
+            <entry>Topic</entry>
+            <entry>Hours</entry>
+            <entry>Reference</entry>
+          </row>
+          <row>
+            <entry>1</entry>
+            <entry>1.1 </entry>
+            <entry>History of plant breeding</entry>
+            <entry>2</entry>
+            <entry>Part.I</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry>1.2-1.5</entry>
+            <entry>Plant biotechnology</entry>
+            <entry>3</entry>
+            <entry>Part.I</entry>
+          </row>
+          <row>
+            <entry>2</entry>
+            <entry>2.1</entry>
+            <entry>Plant tissue culture techniques</entry>
+            <entry>2</entry>
+            <entry>Part.II</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry>2.2</entry>
+            <entry>Cellular totipotency, plant regeneration</entry>
+            <entry>2</entry>
+            <entry>Part II</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry>2.3 </entry>
+            <entry>Application of plant tissue culture</entry>
+            <entry>3</entry>
+            <entry>Part. II</entry>
+          </row>
+          <row>
+            <entry>3</entry>
+            <entry>3.1-3.2</entry>
+            <entry>Target gene(s)-cloning in plants</entry>
+            <entry>3</entry>
+            <entry>Part. III</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry>3.3.1</entry>
+            <entry>Transformation methods (direct-)</entry>
+            <entry>2</entry>
+            <entry>Part.III</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry>3.3.2</entry>
+            <entry>Transformation methods (indirect-)</entry>
+            <entry>3</entry>
+            <entry>Part. III</entry>
+          </row>
+          <row>
+            <entry>4</entry>
+            <entry>4.1</entry>
+            <entry>Making a Transgenic plant</entry>
+            <entry>2</entry>
+            <entry>Part. IV</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry>4.2-4.3</entry>
+            <entry>Selection and detection of transgenic plant</entry>
+            <entry>2</entry>
+            <entry>Part. IV</entry>
+          </row>
+          <row>
+            <entry>5</entry>
+            <entry>5.1 </entry>
+            <entry>Herbicide resistant plants</entry>
+            <entry>2</entry>
+            <entry>Part. V</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry>5.2-5.3</entry>
+            <entry>Insect-virus resistant plants</entry>
+            <entry>2</entry>
+            <entry>Part. V</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry>5.4 </entry>
+            <entry>Improve the post-harvest</entry>
+            <entry>3</entry>
+            <entry>Part. V</entry>
+          </row>
+          <row>
+            <entry>6</entry>
+            <entry>6.1</entry>
+            <entry>Improve the nutritive value</entry>
+            <entry>3</entry>
+            <entry>Part. VI</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry>6.2</entry>
+            <entry>Modify LC-PUFAs contents</entry>
+            <entry>2</entry>
+            <entry>Part. VI</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry>6.3</entry>
+            <entry>New horticultural varieties</entry>
+            <entry>2</entry>
+            <entry>Part.VII</entry>
+          </row>
+          <row>
+            <entry>7</entry>
+            <entry>7.1-7.4</entry>
+            <entry>Molecular pharming </entry>
+            <entry>3</entry>
+            <entry>Part. VII</entry>
+          </row>
+          <row>
+            <entry/>
+            <entry>7.5-7.9</entry>
+            <entry>PHB –Salt tolerance</entry>
+            <entry>2</entry>
+            <entry>Part. VII</entry>
+          </row>
+          <row>
+            <entry>8</entry>
+            <entry>8.1-8.2</entry>
+            <entry>Biosafety &amp; Regulation </entry>
+            <entry>2</entry>
+            <entry>Part VIII</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </content>
+</document>

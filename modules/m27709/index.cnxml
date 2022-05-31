@@ -1,0 +1,65 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Lecture Notes</title>
+  <metadata>
+  <md:content-id>m27709</md:content-id><md:title>Lecture Notes</md:title>
+  <md:abstract/>
+  <md:uuid>11816011-55ce-4998-9b61-7618421c974b</md:uuid>
+</metadata>
+
+<content>
+    <table id="id50041081" summary="">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry align="center">LECTURE</entry>
+            <entry align="center">TITLE</entry>
+            <entry align="center">DOWNLOAD</entry>
+          </row>
+          <row>
+            <entry align="center">I</entry>
+            <entry>INTRODUCTION TO PLANT BIOTECHNOLOGY</entry>
+            <entry><link resource="PlantBioI-INTRODUCTION.pdf">Download</link></entry>
+          </row>
+          <row>
+            <entry align="center">II</entry>
+            <entry>PLANT TISSUE CULTURE (OVERVIEW)</entry>
+            <entry><link resource="PlantBioII-PLANT TISSUE CULTURE.pdf">Download</link></entry>
+          </row>
+          <row>
+            <entry align="center">III</entry>
+            <entry>PLANT TRANSFORMATION</entry>
+            <entry><link resource="PlantBioIII-TRANSFORMATION.pdf">Download</link></entry>
+          </row>
+          <row>
+            <entry align="center">IV</entry>
+            <entry>MAKING A TRANSGENIC PLANT</entry>
+            <entry><link resource="PlantBioIV-TRANSGENIC.pdf">Download</link></entry>
+          </row>
+          <row>
+            <entry align="center">V</entry>
+            <entry>TRANSGENIC PLANTS: 1st GENERATION</entry>
+            <entry><link resource="PlantBioV-FIRST GENERATION.pdf">Download</link></entry>
+          </row>
+          <row>
+            <entry align="center">VI</entry>
+            <entry>TRANSGENIC PLANTS: 2nd GENERATION</entry>
+            <entry><link resource="PlantBioVI-SECOND GENERATION.pdf">Download</link></entry>
+          </row>
+          <row>
+            <entry align="center">VII</entry>
+            <entry>TRANSGENIC PLANTS: 3nd GENERATION</entry>
+            <entry><link resource="PlantBioVII-THIRD GENERATION.pdf">Download</link></entry>
+          </row>
+          <row>
+            <entry align="center">VIII</entry>
+            <entry>BIOSAFETY &amp; REGULATION</entry>
+            <entry><link resource="PlantBioVIII-BIOSAFETY.pdf">Download</link></entry>
+          </row>
+        </tbody>
+      
+</tgroup>
+</table>
+  </content>
+</document>

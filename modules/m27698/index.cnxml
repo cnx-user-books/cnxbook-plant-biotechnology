@@ -1,0 +1,25 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Course Grading</title>
+  <metadata>
+  <md:content-id>m27698</md:content-id><md:title>Course Grading</md:title>
+  <md:abstract/>
+  <md:uuid>f55c88b6-dd71-4ab0-ad87-2cca21296e8c</md:uuid>
+</metadata>
+
+<content>
+    <section id="id49224732"><title>Topics in Plant Biotechnology</title>
+      <para id="id48145107">Oral presentation: 20 points</para>
+      <para id="id48982392">Written report: 20 points</para>
+      <para id="id48825859">Comprehensive Examination: 60 points</para>
+      <para id="id48880480">Total: 100 points</para>
+    </section>
+    <section id="id49299807"><title>Recommended reading</title>
+      <list id="id49536782" list-type="enumerated">
+        <item>Plant Cell and tissue Cullure . In Methods in Molecular Biology, vol. 6, Edited by Jeffrey W Pollard and John M Walker, Humana Press. 1990.</item>
+        <item>Plant Propagation by Tissue Culture: Volume 1. The Background, Edited by E. F. George et al.,Springer, 2008.</item>
+        <item>Agrobacterium Protocols, Volume 1-2. In Methods in Molecular Biology, vol. 343-344, Edited by Kan Wang, Human Press, 2006.</item>
+        <item>Plant Biotechnology.: Current and Future Applications of Genetically Modified Crops Edited by Nigel Halford. John Wiley &amp; Sons, 2006.</item>
+      </list>
+    </section>
+  </content>
+</document>
